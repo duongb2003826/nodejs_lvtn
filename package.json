@@ -1,0 +1,26 @@
+{
+  "name": "food-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongb2003826/nodejs_lvtn.git"
+  },
+  "author": "duongb2003826",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duongb2003826/nodejs_lvtn/issues"
+  },
+  "homepage": "https://github.com/duongb2003826/nodejs_lvtn#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
